@@ -26,18 +26,14 @@ button {
 }
 
 .profile-card {
-  background-color: green;
+.profile-card {
+  background-color: skyblue;
   border-radius: 12px;
-  padding: 24px 30px
+  padding: 24px 20px
   max-width: 400px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.projects {
-  margin-bottom: 20px;
-}
-
-.name {
-  margin-top: 20px;
+  margin-top: auto;
+  padding-top: 20px;
+  padding-bottom: padding-top/2;
 }
